@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Day08_ListingMultiple</string>
+    <string-array name="listSubject">
+        <item>PRJ311</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>PRM211</item>
+        <item>Capstone</item>
+    </string-array>
+</resources>

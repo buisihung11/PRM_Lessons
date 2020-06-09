@@ -1,0 +1,2 @@
+rootProject.name='Day03_ProgressDialog_Sms'
+include ':app'
